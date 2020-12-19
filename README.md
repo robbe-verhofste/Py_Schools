@@ -8,13 +8,13 @@ As part of this analysis, we replaced inaccurate data for the 9th graders at Tho
 
 ##Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
-###How is the district summary affected?
+### How is the district summary affected?
   *The district summary is minimally affected, with math averages going from 78.98% to 78.93% and reading averages going from 81.87% to 81.85%.
-###How is the school summary affected?
+### How is the school summary affected?
   *The average for Thomas High School decreases slightly
-###How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   *It goes down slightly
-###How does replacing the ninth-grade scores affect the following:
+### How does replacing the ninth-grade scores affect the following:
 
 Math and reading scores by grade
 Scores by school spending
