@@ -6,7 +6,7 @@ In this analysis, a school district approached our team to analyze inconsistenci
 
 As part of this analysis, we replaced inaccurate data for the 9th graders at Thomas High School and kept the remaining data intact.
 
-##Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+### Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 #### How is the district summary affected?
   *The district summary is minimally affected, with math averages going from 78.98% to 78.93% and reading averages going from 81.87% to 81.85%.
