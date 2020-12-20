@@ -13,7 +13,7 @@ As part of this analysis, we replaced inaccurate data for the 9th graders at Tho
 #### How is the school summary affected?
   *The average for Thomas High School decreases slightly
 #### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-  *It goes down slightly
+*It goes down slightly
 #### How does replacing the ninth-grade scores affect the following:
 
 The bottom and top 5 schools stayed the same regardless of the inclusion of the falsified scores. Thomas High School also remained the top performing school, with a decrease in total score from 93.3% to 93.2%, a very insignificant reduction.
