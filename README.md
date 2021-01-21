@@ -22,8 +22,8 @@ The bottom and top 5 schools stayed the same regardless of the inclusion of the 
 ## Results
 Nearly all of the score metrics stated the same after the analysis. Those metrics that did change changed in only miniscule amounts.
 
-###Scores without Thomas Highschool's 9th grade:
+### Scores without Thomas Highschool's 9th grade:
 ![File name](https://github.com/robbe-verhofste/Py_Schools/blob/main/Resources/top5_grade.PNG)
 
-###Scores with Thomas Highschool's 9th grade:
+### Scores with Thomas Highschool's 9th grade:
 ![File name](https://github.com/robbe-verhofste/Py_Schools/blob/main/Resources/top5_w_9th_grade.PNG)
